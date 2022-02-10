@@ -8,6 +8,7 @@ class MainActivity2 : AppCompatActivity(),OnFragmentActionsListener2 {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
+
     }
     override fun onClickFragmentButton2() {
         //se trata de un mensaje que saldrá de la parte inferior de la pantalla al llamar al método.

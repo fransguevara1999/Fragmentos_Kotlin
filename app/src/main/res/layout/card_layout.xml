@@ -46,6 +46,22 @@
             android:layout_toEndOf="@+id/item_image"
             android:layout_toRightOf="@+id/item_image"
             android:layout_below="@+id/item_title" />
+
+        <!--<Button
+            android:id="@+id/item_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_detal"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="77dp"
+            android:layout_marginLeft="77dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="30dp"
+            android:layout_toEndOf="@+id/item_detal"
+            android:layout_toRightOf="@+id/item_detal"
+            android:background="@color/black"
+            android:text="Ir"
+            android:textColor="@color/white" />-->
     </RelativeLayout>
 
 
