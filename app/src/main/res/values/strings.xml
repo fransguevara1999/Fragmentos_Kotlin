@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragmentExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnAzul">Has precionado el boton Azul</string>
+    <string name="btnRojo">Has precionado el boton Rojo</string>
+    <string name="DeseñoDeTarjetas">Fragmentos Utilizando RecyclerView en Kotlin</string>
+    <string name="des_sonido">Conjunto de sonidos sucesivos combinados según este arte, que por lo general producen un efecto estético o expresivo y resultan agradables al oído</string>
+    <string name="des_pedro"></string>
+    <string name="des_img"></string>
+    <string name="des_video"></string>
+    <string name="des_youtu"></string>
+    <string name="des_DiseñoTarjeta"></string>
+    <string name="des_juego"></string>
+</resources>
